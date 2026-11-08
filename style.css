@@ -1,0 +1,15 @@
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+.one {
+    background-color: turquoise;
+    display: inline;
+}
+
+.two {
+    background-color: lime;
+    display: inline-block;
+}
